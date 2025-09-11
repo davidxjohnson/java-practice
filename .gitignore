@@ -16,3 +16,6 @@ Thumbs.db
 
 # Compiled class files
 *.class
+
+# VS Code
+.vscode/
