@@ -10,6 +10,8 @@
     <modules>
       <module>module-a</module>
       <module>module-b</module>
+      <module>next-greater-offset</module>
+      <module>between-two-sets</module>
     </modules>
   <dependencies>
     <dependency>
