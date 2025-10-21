@@ -10,7 +10,7 @@
   <modules>
     <module>module-a</module>
     <module>module-b</module>
-    <module>next-greater-offset</module>
+  <module>maxConcurant</module>
     <module>between-two-sets</module>
   </modules>
   <properties>
