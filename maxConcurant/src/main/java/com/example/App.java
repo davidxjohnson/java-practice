@@ -96,13 +96,4 @@ public class App implements Runnable {
         }
         return resultArr;
     }
-
-    // private static class Event {
-    // public final int time;
-    // public final int type; // 1 for start, -1 for end
-    // public Event(int time, int type) {
-    // this.time = time;
-    // this.type = type;
-    // }
-    // }
 }
