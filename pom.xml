@@ -10,6 +10,7 @@
     <modules>
       <module>module-a</module>
       <module>module-b</module>
+      <module>maxConcurant</module>
     </modules>
   <dependencies>
     <dependency>
